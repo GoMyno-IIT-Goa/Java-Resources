@@ -6,7 +6,7 @@ Modular arithmetic is a technique for solving problems that involve arithmetic o
 Quite often, the numbers involved are very large, and the arithmetic is done modulo a large number.
 
 ```java
-/* Rohith */
+
 //Modular Arithmatic functions
 	int modular_addition(int a, int b, int mod)
 	{
@@ -33,5 +33,6 @@ Quite often, the numbers involved are very large, and the arithmetic is done mod
 	    /* You can also compute b^(mod-2) using Binary exponentation a*b^(mod-2) % mod */
 	    return result;
 	}
+//If you are calling these functions inside the main method 
 
 ```
