@@ -17,7 +17,7 @@ If we reach first/last element of array and element is not found yet, return -1 
 
 ### Implementation
 
-```cpp
+```java
 
 int BinarySearch(int arr[], int left, int right, int element){
     if (left <= right){
