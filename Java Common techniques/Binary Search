@@ -1,4 +1,4 @@
-<!-- Author: Aniket Akshay Chaudhri -->
+<!-- Author: Surya Shukla -->
 
 ## Binary Search
 
@@ -59,4 +59,5 @@ int BinarySearch(int arr[], int left, int right, int element){
 |                     |[Find 4 elements that sum to a given value](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)                                                                                                                                                                      |
 |                     |[Maximum sum such that no 2 elements are adjacent](https://practice.geeksforgeeks.org/problems/stickler-theif/0)                                                                                                                                                                                 |
 |                     |[Count triplet with sum smaller than given value](https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1)                                                                                                                                                     |
+
 
