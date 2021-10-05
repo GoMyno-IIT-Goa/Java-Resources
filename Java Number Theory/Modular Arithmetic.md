@@ -1,14 +1,14 @@
 <<!-- Author : Rohith-->>
 
-## Modular Arithmatic
+## Modular Arithmetic
 
-Modular arithmatic is a technique for solving problems that involve arithmetic on numbers that are not necessarily in the range of a normal integer.
+Modular arithmetic is a technique for solving problems that involve arithmetic on numbers that are not necessarily in the range of a normal integer.
 Quite often, the numbers involved are very large, and the arithmetic is done modulo a large number.
 
 ```java
 /* Rohith */
 //Modular Arithmatic functions
-int modular_addition(int a, int b, int mod)
+	int modular_addition(int a, int b, int mod)
 	{
 	    int result = ((a%mod) + (b%mod)) % mod;
 	    return result;
