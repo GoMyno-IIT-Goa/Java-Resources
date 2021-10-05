@@ -1,4 +1,4 @@
-<!-- Author: Aniket Akshay Chaudhri -->
+<!-- Author: Surya Shukla -->
 
 ## Binary Search
 
