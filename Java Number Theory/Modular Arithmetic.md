@@ -33,6 +33,6 @@ Quite often, the numbers involved are very large, and the arithmetic is done mod
 	    /* You can also compute b^(mod-2) using Binary exponentation a*b^(mod-2) % mod */
 	    return result;
 	}
-//If you are calling these functions inside the main method 
+//If you are calling these functions inside the main method then make all these functions static since the main method is by default static and a non-static method can't be called inside a static method.
 
 ```
